@@ -1,6 +1,6 @@
 pandas
 numpy
 plotly
-xgboost
+scikit-learn
 category_encoders
 streamlit
